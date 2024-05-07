@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shakil147)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
